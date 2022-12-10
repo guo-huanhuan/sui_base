@@ -6,5 +6,5 @@ version = "0.0.1"
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "devnet" }
 
 [addresses]
-base =  "0xbdc5e81334ecca4e2491c3897fda200f9d1f0262"
+base =  "0x2b1d3d5d6da4ce55e54cb5169a1c5298b757bae0"
 sui =  "0000000000000000000000000000000000000002"
