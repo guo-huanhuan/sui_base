@@ -1,0 +1,11 @@
+[package]
+name = "base"
+version = "0.0.1"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "devnet" }
+
+[addresses]
+base =  "0x0"
+sui =  "0000000000000000000000000000000000000002"
+admin_address="0xb433ab516fc48ef8577ca2e358c98bd14860e941"
